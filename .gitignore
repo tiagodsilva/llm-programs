@@ -1,3 +1,6 @@
 *.db
 .ruff_cache
 .venv
+
+WikiTableQuestions/
+*.zip
