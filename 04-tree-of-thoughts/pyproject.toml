@@ -1,0 +1,9 @@
+[project]
+name = "tree-of-thought"
+version = "0.0.0"
+description = "Minimal project for llm-programs"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "tree-of-thoughts-llm",
+]
